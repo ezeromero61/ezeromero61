@@ -29,4 +29,5 @@ C# · Windows Forms · SQL Server · arquitectura en capas (BE / BLL / DAL)
 Contacto ezeromero61@gmail.com
 
 📍 Lomas de Zamora, Buenos Aires, Argentina
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github)](https://skillicons.dev)
