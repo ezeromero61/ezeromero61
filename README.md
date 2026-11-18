@@ -17,12 +17,16 @@ Tecnologías
 
 
 Proyecto destacado
+
 AluSoft
+
 Sistema de gestión integral para empresas de aberturas de aluminio, desarrollado en equipo como proyecto final de la carrera.
 Ciclo completo de venta (cliente → presupuesto → pedido → producción → venta → cobro) y de compra a proveedores.
 Control de stock, órdenes de producción con estados y exportación de reportes a Excel.
 Seguridad: credenciales cifradas, menú por rol, bitácora, backup y dígitos verificadores.
 C# · Windows Forms · SQL Server · arquitectura en capas (BE / BLL / DAL)
-Contacto
+
+Contacto ezeromero61@gmail.com
+
 📍 Lomas de Zamora, Buenos Aires, Argentina
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github)](https://skillicons.dev)
